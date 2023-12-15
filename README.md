@@ -3,7 +3,7 @@
 </div>
 
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=00CCCC&height=220&section=header&text=Rok's%20Github!&fontSize=73&fontColor=FFFFFF" />
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=CCCCCC&height=220&section=header&text=Rok's%20Github!&fontSize=73&fontColor=FFFFFF" />
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/-00FFCC?style=flat&logo=Aiqfome&logoColor=white"/>
