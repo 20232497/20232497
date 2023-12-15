@@ -44,5 +44,7 @@
 	<a href="https://www.notion.so/8a2fc4cda3fe44b19fe03aa44479bd50">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
+	<a href="https://www.instagram.com/04_rok/">
+		<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
 	<br>
 </div>
