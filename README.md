@@ -1,5 +1,5 @@
 <div align=center>
-	------------------- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F20232497%2Fhit-counter&count_bg=%23FDE48E&title_bg=%2332C8FF&icon=tapas.svg&icon_color=%23FFE542&title=Viewer&edge_flat=false"/></a> ------------------- 
+	ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F20232497%2Fhit-counter&count_bg=%23FDE48E&title_bg=%2332C8FF&icon=tapas.svg&icon_color=%23FFE542&title=Viewer&edge_flat=false"/></a> ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 </div>
 
 <div align=center>
