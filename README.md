@@ -4,9 +4,9 @@
 
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=00CCCC&height=220&section=header&text=Rok's%20Github!&fontSize=73&fontColor=FFFFFF" />
-	이름: 오영록<br>
-	학교 : 동양미래대학교 <br>
-	학과 : 인공지능소프트웨어학과[QB] <br>
+</div>
+<div align=center>
+	이름 : 오영록 <br>
 </div>
 
 <hr>
