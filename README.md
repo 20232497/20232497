@@ -7,9 +7,8 @@
 </div>
 <div align=center>
 	Hi everyone!🤝 <p>
-	이름 : 오영록 <br>
-	🏫학교 : 동양미래대학교 <br>
-	💻학과 : 인공지능소프트웨어학과[QB] <br>
+	오영록, 동양미래대학교 🏫<br>
+	인공지능소프트웨어학과[QB]💻 <br>
 </div>
 
 <hr>
