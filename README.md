@@ -61,10 +61,11 @@
 <br>
 <hr>
 <p>🏆 Baekjoon solved rank 🏆</p>
-	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj={20232497})](https://solved.ac/{20232497})
+
 [![Solved.ac
 Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj={20232497})](https://solved.ac/{20232497})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj={20232497})](https://solved.ac/{20232497})
+
 
 </div>
 <br>
