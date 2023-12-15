@@ -8,7 +8,7 @@
 <div align=center>
 	Hi everyone!🤝 <p>
 	오영록, 동양미래대학교 🏫<br>
-	인공지능소프트웨어학과[QB]💻 <br>
+	💻인공지능소프트웨어학과[QB]🅱️ <br>
 </div>
 
 <hr>
