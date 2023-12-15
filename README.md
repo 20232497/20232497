@@ -2,9 +2,9 @@
 	ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F20232497%2Fhit-counter&count_bg=%23FDE48E&title_bg=%2332C8FF&icon=tapas.svg&icon_color=%23FFE542&title=Viewer&edge_flat=false"/></a> ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 </div>
 
-<div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=00CCCC&height=220&section=header&text=Rok's%20Github!&fontSize=73&fontColor=FFFFFF" />
-</div>
+<p align=center>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=E5CCFF&height=160&section=header&text=YRok🐣&fontSize=90&&animation=fadeIn&fontColor=FFFFFF"></image>
+</p>
 <div align=center>
 	Hi everyone!🤝 <p>
 	오영록, 동양미래대학교 🏫<br>
