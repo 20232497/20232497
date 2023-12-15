@@ -3,8 +3,8 @@
 </div>
 <hr>
 <div align=center>
-	<h3>📚 Tech Stack 📚</h3>
-	<p>✨ Platforms & Languages ✨</p>
+	<h3>📚 My Promgramming Tech 📚</h3>
+	<p>✨ Platforms and languages ✨</p>
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
