@@ -48,7 +48,7 @@
 		<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
 	<br>
 </div>
-<hr>
+<br><br>
 <div align=center>
 	<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kycasdzxc&layout=compact">
