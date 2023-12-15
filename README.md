@@ -41,7 +41,7 @@
 	<a href="https://blog.naver.com/o_b1227">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
-	<a href="https://gentle-snowboard-1c6.notion.site/Yermi-5e8c65dba4df4ab09e83665cf2ee001d">
+	<a href="[https://gentle-snowboard-1c6.notion.site/Yermi-5e8c65dba4df4ab09e83665cf2ee001d](https://www.notion.so/8a2fc4cda3fe44b19fe03aa44479bd50)">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
 	<br>
