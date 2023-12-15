@@ -56,7 +56,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=20232497&show_icons=true">
 <hr>
 
-![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=kycasdzxc)
+![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=20232497)
 
 <br>
 <p>🏆 Baekjoon solved rank 🏆</p>
