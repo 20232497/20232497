@@ -70,5 +70,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj={20232497})](https://solved.ac/{20232497})
 </div>
 <br>
+<hr>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
