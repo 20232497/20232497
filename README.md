@@ -3,7 +3,7 @@
 </div>
 
 <p align=center>
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=00ffFF&height=160&section=header&text=🐣_YRok_🐣&fontSize=90&&animation=fadeIn&fontColor=ffFFFF"></image>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=339966&height=160&section=header&text=🐣_YRok_🐣&fontSize=90&&animation=fadeIn&fontColor=ffFFFF"></image>
 </p>
 <div align=center>
 	Hi everyone!🤝 <p>
