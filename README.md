@@ -1,6 +1,7 @@
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=00CCCC&height=220&section=header&text=Rok's%20Github!&fontSize=73&fontColor=FFFFFF" />	
 </div>
+<hr>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
